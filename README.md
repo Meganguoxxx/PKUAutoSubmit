@@ -1,5 +1,5 @@
 # PKUAutoSubmit (modified)
-我爱北大！
+我爱北大！世界平安！
 
 **UPDATE 2020/10/18**
 
